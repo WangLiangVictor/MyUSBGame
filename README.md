@@ -1,2 +1,1 @@
-# MyUSBGame
-USB Game Control
+# SerilThread
